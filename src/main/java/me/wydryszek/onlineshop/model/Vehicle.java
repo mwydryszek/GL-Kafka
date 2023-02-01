@@ -1,4 +1,4 @@
-package me.wydryszek.onlineshop;
+package me.wydryszek.onlineshop.model;
 
 
 import lombok.AllArgsConstructor;
